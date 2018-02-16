@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Diskusi Yuk!</string>
+    <string name="login">Login</string>
+    <string name="hello">Hai!</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+    <string name="don_t_have_an_account_signup">Klik di sini buat daftar!</string>
+    <string name="login_btn">Masuk</string>
+    <string name="login_loading">Tunggu sebentar ...</string>
+    <string name="user_name">Username</string>
+    <string name="already_have_account">Klik di sini kalau mau masuk!</string>
+    <string name="register">Daftar</string>
+    <string name="signup">Daftar</string>
+    <string name="repeat_password">Ulangi Password</string>
+    <string name="wait">Tunggu sebentar ..</string>
+    <string name="title_activity_main">Menu utama</string>
+    <string name="enter_email">Masukan Email !</string>
+    <string name="enter_valid_email">Masukan alamat email yang sesuai !</string>
+    <string name="enter_password">Masukan password !</string>
+    <string name="enter_username">Masukan username !</string>
+    <string name="enter_password_again">Masukan ulang password!</string>
+    <string name="password_isnt_equal">Password tidak sama !</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="android_developers_community_discuss_hot_topics_in_android">Android Developers Community discuss hot topics in Android</string>
+    <string name="welcome">"Hai! "</string>
+    <string name="nice_to_meet_you">Silakan berdiskusi</string>
+    <string name="nice_to_meet_you_admin">Hai Admin !</string>
+    <string name="logout">Logout</string>
+
+
+    <string name="room_name">Judul Diskusi</string>
+    <string name="room_desc">Deskripsi Diskusi</string>
+    <string name="add">Tambahkan</string>
+    <string name="please_enter_room_name">Masukan judul diskusi</string>
+    <string name="please_enter_room_desc">Masukan deskripsi diskusi</string>
+    <string name="title_activity_chat">Diskusi Yuk!</string>
+</resources>
